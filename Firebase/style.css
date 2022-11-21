@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .my-name-provided {
+    font-size: 25px;
+    color: green;
+    border-style: solid;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .even {
+    color: green;
+  }
+  
+  .odd {
+    color: red;
+  }
+  
+  .card {
+    border-style: solid;
+    width: fit-content;
+    display: inline-block;
+    margin: 10px;
+  }
+  
