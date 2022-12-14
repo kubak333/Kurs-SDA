@@ -204,4 +204,12 @@ function calculateRate() {
   
   const conversionTypeEl = document.getElementById("conversionType");
   conversionTypeEl.addEventListener("change", calculateRate);
+
+
+  // const amountEl = document.getElementById("amount");
+  // amountEl.addEventListener("change", calculateRate);
+  
+  // const conversionTypeEl = document.getElementById("conversionType");
+  // conversionTypeEl.addEventListener("change", calculateRate);
+  
   
